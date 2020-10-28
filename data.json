@@ -1,0 +1,12 @@
+{
+  "Files" : [
+    {
+      "Name": "file1",
+      "Size": 1024
+    },
+    {
+      "Name": "file2",
+      "Size": 1025
+    }
+  ]
+}

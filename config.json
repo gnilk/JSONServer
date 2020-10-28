@@ -1,0 +1,8 @@
+{
+  "Config" : {
+    "SleepDurationSec" : 30,
+    "Reboot" : true,
+    "UseWifi" : false,
+    "SSID" : "goatland"
+  }
+}
